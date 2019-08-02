@@ -2,5 +2,5 @@
 2. all page object classes require you to pass browser as a parameter find a better way to reduce this duplication
 3. the hard coded string values in the config json should be replaced with static enums to reduce typing errors - Done
 4. add the ability to turn on/off the creation of the folder structure. - Done
-5. add the right git ignore file and push to git
-6. create a README.md
+5. add the right git ignore file and push to git - Done
+6. create a README.md - Done
