@@ -1,6 +1,6 @@
 import json
 
-CONFIG_PATH = '/Users/beni/Desktop/IosApps/python-ui-framework/tests/config.json'
+CONFIG_PATH = '~/python-ui-framework/tests/config.json'
 
 
 class ConfigReader:
