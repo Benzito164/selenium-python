@@ -1,0 +1,9 @@
+{
+  "browser": "chrome",
+  "wait_time": 10,
+  "chrome_driver_path": "/Users/beni/Desktop/IosApps/python-ui-framework/chromedriver",
+  "enable_logging": "True",
+  "log_method": "file",
+  "build_folder": "Tru"
+
+}
