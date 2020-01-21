@@ -20,7 +20,7 @@ change the following in the test/config.json file
 2.'log_method' = should be set to file or console to decide where the log file output should be sent
 3. 'enable_logging' and 'build_folder' = should have values set to True or false
 4.'wait_time'= can be set to what ever you want
-5. Based on your setting when you run your test if 'build_folder is set to True a folder named python will be created 
+5. Based on your setting when you run your test if 'build_folder' option  is set to True a folder named python will be created 
 with 2 sub directories named logs and failedscreentshot on your desktop and your log files and screenshot will go there 
 6. Finally in the Utils/config_reader.py change the value of CONFIG_PATH to match the exact path to where the
 config.json is stored. 
